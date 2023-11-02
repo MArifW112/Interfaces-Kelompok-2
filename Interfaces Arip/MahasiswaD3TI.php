@@ -9,7 +9,7 @@ class MahasiswaD3TI implements Mahasiswa {
     }
 
     public function berbicara(): void {
-        echo $this->nama . " berbicara sangat pelan";
+        echo $this->nama . " berbicara dengan percaya diri";
     }
 }
 ?>
